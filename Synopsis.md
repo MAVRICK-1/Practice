@@ -21,6 +21,7 @@ Tapan Surname
   - Tailwind CSS
   - Material-UI
   - HTML
+  - CSS
 
 - **Backend Services:**
   - Firebase
